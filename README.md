@@ -1,4 +1,4 @@
-# 홈택스 로그인
+# 홈택스 공인인증서 로그인
 
 ```py
 import pypinksign
